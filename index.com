@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Best AI Tools</title>
+ <link rel="icon" href="icon.png">
+ <meta name="description" content="Guide to the best AI Tools.">
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+ <link rel="stylesheet" href="style.css">
+ 
+  
+</head>
+<body>
+
+<header>
+<h1>Best AI Tools</h1>
+</header>
+
+Home Page
+<footer><p>On October 15, 2025.</p></footer></body></html>
