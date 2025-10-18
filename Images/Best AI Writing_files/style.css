@@ -1,0 +1,120 @@
+body {	
+background: #FFFFFF;
+}
+
+
+* {
+	font-family: Cambria,Georgia, "Times New Roman", Times, serif;
+}
+
+figcaption {
+    text-align: center;
+}
+
+a {
+    color: #337ab7;
+	text-decoration: none;
+}
+
+blockquote a {
+    background: beige;
+}
+
+blockquote {
+   	font-size: 27px;
+	padding: 5px;
+}
+
+li {
+	margin: 5px;
+	line-height: 1.6;
+	font-size: 20px;
+}
+h1 ,h2 ,h3 ,h4 {
+	line-height: 1.4;
+	font-weight: 500;
+}
+
+h1 {
+        font-size: 36px;
+        margin-bottom: 17px;
+        color: #333;
+}
+
+h2 {
+        font-size: 26px;
+        line-height: 1.6;
+        margin: 15px 0;
+        color: #333;
+}
+
+h3 {
+        font-size: 24px;
+        margin: 10px 0 20px 0;
+        color: #333;
+}
+
+h4 {
+        font-size: 20px;
+        margin: 10px 0 20px 0;
+        color: #333;
+}
+
+
+header {
+        width: 640px;
+        margin: auto;
+}
+section {
+        width: 640px;
+        margin: auto;
+}
+section p {
+        margin-bottom: 27px;
+        font-size: 20px;
+        line-height: 1.6;
+        color: #333;
+}
+section img {
+        width: 100%;
+}
+footer {
+        padding: 0 20px;
+        margin: 50px 0;
+        text-align: center;
+        font-size: 12px;
+}
+.aspectRatioPlaceholder {
+        max-width: auto !important;
+        max-height: auto !important;
+}
+.aspectRatioPlaceholder-fill {
+        padding-bottom: 0 !important;
+}
+header,
+      section[data-field=subtitle],
+      section[data-field=description] {
+        display: none;
+}
+	  
+header {
+    display: block;
+}
+
+figure {
+    margin: 16px auto;
+
+}
+
+@media screen and (max-width: 1000px) {
+
+  
+  section {
+    width: 92%;
+}
+
+header {
+	width: 81%;
+}
+
+}
