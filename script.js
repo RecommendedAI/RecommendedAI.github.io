@@ -4,7 +4,7 @@ window.onload = function() {
     var rest = hash.slice(key.length);
 
     var map = {
-        "a": "Best-AI-image-upscalers",
+        "BestAIimageupscalers": "Best-AI-image-upscalers",
         "b": "bbbb",
 
     };
