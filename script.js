@@ -5,7 +5,7 @@ window.onload = function() {
 
     var map = {
         "BestAIimageupscalers": "Best-AI-image-upscalers",
-        "bBestAIimageGenerators": "The-Best-AI-Image-Generators",
+        "BestAIimageGenerators": "The-Best-AI-Image-Generators",
 
     };
 
