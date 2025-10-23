@@ -6,6 +6,7 @@ window.onload = function() {
     var map = {
         "BestAIimageupscalers": "Best-AI-image-upscalers",
         "BestAIimageGenerators": "The-Best-AI-Image-Generators",
+        "BestAIChatbotBuilders": "Best-AI-Chatbot-Builders",
 
     };
 
