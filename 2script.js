@@ -2,7 +2,7 @@
 (function() {
     var script = document.createElement('script');
     script.async = true;
-    script.src = "https://www.googletagmanager.com/gtag/js?id=G-QPDN4P2NE2";
+    script.src = "https://www.googletagmanager.com/gtag/js?id=G-TZS7N28792";
     document.head.appendChild(script);
 
     script.onload = function() {
@@ -11,6 +11,6 @@
         
 
         gtag('js', new Date());
-        gtag('config', 'G-QPDN4P2NE2'); 
+        gtag('config', 'G-TZS7N28792'); 
     };
 })();
